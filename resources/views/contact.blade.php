@@ -79,15 +79,13 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Belajar Laravel
+                    Contact
                 </div>
 
-                <div class="links">
-                    <a href="pesan">Pesan</a>
-                    <a href="about">About</a>
-					<a href="percakapan">Percakapan</a>
-					<a href="contact">Contact</a>
-                </div>
+                <div>
+                    Contact saya: weblanjutabc.2017@gmail.com <br/>
+                    <a href="/">Home</a>
+				</div>
             </div>
         </div>
     </body>
