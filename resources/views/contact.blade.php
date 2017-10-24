@@ -83,7 +83,7 @@
                 </div>
 
                 <div>
-                    Contact saya: weblanjutabc.2017@gmail.com <br/>
+                    Contact saya: saputratomy325@gmail.com <br/>
                     <a href="/">Home</a>
 				</div>
             </div>
