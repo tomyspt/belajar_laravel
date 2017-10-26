@@ -39,3 +39,7 @@ Route::get('pesan', function () {
 Route::post('pesan/kirim', function () {
     return view('pesan_kirim');
 });
+
+Route::get('template',function(){
+	return view('layouts.master');
+}); 
