@@ -48,6 +48,8 @@ Route::get('coba1', function () {
 return view('coba1');
 });
 
+Route::get('/admin', 'AdminController@index')->name('admin.dashboard');
+
 Route::get('coba2', function () {
 return view('coba2');
 });
